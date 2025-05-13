@@ -3,7 +3,7 @@
  * Plugin Name: Remove CF7 Locale Metadata
  * Description: Removes the _locale meta field from all Contact Form 7 forms
  * Version: 1.0
- * Author: Your Name
+ * Author: Claud
  */
 
 // Ensure the code doesn't run on direct access
