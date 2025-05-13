@@ -45,7 +45,7 @@ This plugin provides a simple, admin-friendly way to remove the problematic "_lo
 2. Click the "Remove _locale Meta Fields" button
 3. Review the results summary that appears after processing
 
-![Admin Interface Screenshot](https://via.placeholder.com/800x400?text=Admin+Interface+Screenshot)
+
 
 ### Developer Usage
 
